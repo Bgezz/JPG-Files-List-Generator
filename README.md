@@ -8,6 +8,7 @@ Features:
 List JPG files: The script lists all JPG files on a specified drive and its subdirectories.
 Save to HTML: It saves the file names and modification dates of the JPG files to an HTML table at the specified location.
 Yearly dropdown: It creates a dropdown menu grouped by years, enabling users to quickly navigate between years and select files for each year.
+
 Usage:
 Specify the drive letter in the $driveLetter variable.
 Determine the HTML file path in the $htmlFilePath variable.
